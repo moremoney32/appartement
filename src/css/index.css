@@ -89,7 +89,7 @@
 
 .card{
 
-  width:calc((100%)- 70px/3);
+  width:calc((100%/3)- 70px/3);
   height: 300px;
   position: relative;
  
